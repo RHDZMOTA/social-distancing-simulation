@@ -1,0 +1,22 @@
+{
+  "population": 1000,
+  "strategy": "social-distancing",
+  "scenarios": {
+    "social-interacting": {
+      "people-distribution": {
+        "students": 10,
+        "workers": 70,
+        "worker-students": 10,
+        "stay-home": 10
+      }
+    },
+    "social-distancing": {
+      "people-distribution": {
+        "students": 8,
+        "workers": 56,
+        "worker-students": 8,
+        "stay-home": 28
+      }
+    }
+  }
+}
