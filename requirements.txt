@@ -2,6 +2,6 @@ fire==0.2.1
 ipython==7.13.0
 jupyter==1.0.0
 matplotlib==3.2.1
-numpy==1.18.2
+numpy==1.22.0
 pandas==1.0.3
 pycodestyle==2.5.0
